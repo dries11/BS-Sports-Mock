@@ -1,0 +1,37 @@
+[
+    {
+        "avatarUrl" : "https://randomuser.me/api/portraits/men/31.jpg",
+        "accountFullName" : "Denzel Finn",
+        "twitterHandle" : "@TheRealDenzel",
+        "tweetText" : "Here's a few of my favorite images from the  62nd annual Blue-Gold all-star football game.",
+        "tweetPhotoUrl" : "https://pbs.twimg.com/media/DCoYqD7WsAEOXAK.jpg"
+    },
+    {
+        "avatarUrl" : "https://randomuser.me/api/portraits/women/54.jpg",
+        "accountFullName" : "Michelle Anderson",
+        "twitterHandle" : "@mAnderson",
+        "tweetText" : "St. Georges Technical High School vs Concord High School (Wilmington, Delaware) softball!",
+        "tweetPhotoUrl" : ""
+    },
+    {
+        "avatarUrl" : "https://randomuser.me/api/portraits/men/25.jpg",
+        "accountFullName" : "Shane Holder",
+        "twitterHandle" : "@ShaneH",
+        "tweetText" : "Mount scores 2 on a Spencer Read 2B in the top of the 2nd",
+        "tweetPhotoUrl" : ""
+    },
+    {
+        "avatarUrl" : "https://randomuser.me/api/portraits/women/16.jpg",
+        "accountFullName" : "Rebecca Thompson",
+        "twitterHandle" : "@RebeccaT",
+        "tweetText" : "Mount leads Concord 1-0 with 4 minutes left in the 1st half",
+        "tweetPhotoUrl" : "https://pbs.twimg.com/media/C-hpTBuXkAAZXK0.jpg"
+    },
+    {
+        "avatarUrl" : "https://randomuser.me/api/portraits/men/90.jpg",
+        "accountFullName" : "Allen Yang",
+        "twitterHandle" : "@AllenOop",
+        "tweetText" : "We love seeing our Delaware athletes thrive at the next level. Congrats to Concord High School",
+        "tweetPhotoUrl" : ""
+    }
+]

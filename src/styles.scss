@@ -1,1 +1,36 @@
 /* You can add global styles to this file, and also import other style files */
+
+$brandywine-primary-blue: rgb(0, 0, 255);
+$brandywine-primary-white: rgb(255, 255, 255);
+$brandywine-primary-black: rgb(0, 0, 0);
+$brandywine-hover: rgba(0,0,255,0.4);
+
+$concord-primary-red: rgb(68, 8, 33);
+$concord-secondary-red: rgb(128, 0, 0);
+$concord-primary-white: $brandywine-primary-white;
+$concord-primary-black: $brandywine-primary-black;
+$concord-hover: rgba(68, 8, 33, 0.4);
+
+$mountpleasant-primary-green: rgb(0, 128, 0);
+$mountpleasant-primary-white: $brandywine-primary-white;
+$mountpleasant-primary-black: $brandywine-primary-black;
+$mountpleasant-hover: rgba(0, 128, 0, 0.4);
+
+.brandywine:hover{
+    background-color: $brandywine-hover;
+    color: black !important;
+}
+
+.concord:hover{
+    background-color: $concord-hover;
+    color: black !important;
+}
+
+.mount:hover{
+    background-color: $mountpleasant-hover;
+    color: black !important;
+}
+
+main.mdl-layout__content{
+    background-color: rgb(20, 23, 26);
+}

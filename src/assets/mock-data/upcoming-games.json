@@ -1,0 +1,72 @@
+[
+    {
+        "school" : "Brandywine",
+        "schoolVersus" : "Concord",
+        "location" : "Concord High School",
+        "time" : "3:00pm",
+        "date" : "12/10/17",
+        "sport" : "JV Boys Basketball",
+        "cssClass" : "basketball",
+        "gMapsSearch" : "Concord+High+School"
+    },
+    {
+        "school" : "Brandywine",
+        "schoolVersus" : "Concord",
+        "location" : "Concord High School",
+        "time" : "5:30pm",
+        "date" : "12/10/17",
+        "sport" : "V Boys Basketball",
+        "cssClass" : "basketball",
+        "gMapsSearch" : "Concord+High+School"
+    },
+    {
+        "school" : "Mount",
+        "schoolVersus" : "Brandywine",
+        "location" : "Mount Pleasant High School",
+        "time" : "3:00pm",
+        "date" : "12/11/17",
+        "sport" : "JV Girls Basketball",
+        "cssClass" : "basketball",
+        "gMapsSearch" : "Mount+Pleasant+High+School"
+    },
+    {
+        "school" : "Mount",
+        "schoolVersus" : "Brandywine",
+        "location" : "Mount Pleasant High School",
+        "time" : "5:30pm",
+        "date" : "12/11/17",
+        "sport" : "V Girls Basketball",
+        "cssClass" : "basketball",
+        "gMapsSearch" : "Mount+Pleasant+High+School"
+    },
+    {
+        "school" : "Mount",
+        "schoolVersus" : "Concord, vs Brandywine",
+        "location" : "UD Field House",
+        "time" : "4:30pm",
+        "date" : "12/12/17",
+        "sport" : "Indoor Track - District Meet",
+        "cssClass" : "track",
+        "gMapsSearch" : "UD+Field+House"
+    },
+    {
+        "school" : "Concord",
+        "schoolVersus" : "Mount",
+        "location" : "Concord",
+        "time" : "4:30pm",
+        "date" : "12/15/17",
+        "sport" : "V Wrestling",
+        "cssClass" : "wrestling",
+        "gMapsSearch" : "Concord+High+School"
+    },
+    {
+        "school" : "Brandywine",
+        "schoolVersus" : "Mount",
+        "location" : "Pool - Claymont Elementary (Yds)",
+        "time" : "4:00pm",
+        "date" : "12/20/17",
+        "sport" : "Girls Swimming",
+        "cssClass" : "swimming",
+        "gMapsSearch" : "Claymont+Elementary+School"
+    }
+]

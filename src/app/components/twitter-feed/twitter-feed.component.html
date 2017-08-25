@@ -1,0 +1,9 @@
+<div class="mdl-card mdl-shadow--4dp">
+    <div class="mdl-card__title hashtag">
+        <img class="twitter_logo" src="/assets/icons/Twitter_Social_Icon_Square_Color.png"/>
+        <span>#BSDSports</span>
+    </div>
+    <div class="tweetStream">
+        <app-single-tweet *ngFor="let tweet of tweets" [tweet]=tweet></app-single-tweet>
+    </div>
+</div>

@@ -1,0 +1,31 @@
+$primary-grey: rgb(158, 158, 158);
+$primary-text-gray: rgb(72, 72, 72);
+
+.dashboard{
+    width: 100%;
+    height: 100%;
+    .mdl-card__title{
+        i{
+            margin-right: 2%;
+        }
+        background-color: $primary-grey;
+        color: $primary-text-gray;
+    }
+}
+
+.upcoming-games-schedule{
+    width: 100%;
+    border-right: 1px solid black;
+    background-color: white;
+}
+
+.photos-slideshow{
+    width: 100%;
+    height: 50%;
+}
+
+.news-card{
+    margin-top: 2%;
+    width: 100%;
+    height: 49%;
+}

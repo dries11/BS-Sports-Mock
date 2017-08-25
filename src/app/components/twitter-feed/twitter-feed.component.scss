@@ -1,0 +1,14 @@
+$twitter-primary-blue: rgb(29,161,242);
+$twitter-secondary-white: rgb(255,255,255);
+
+.hashtag{
+    background-color: $twitter-primary-blue;
+    color: $twitter-secondary-white;
+    font-weight: bold;
+}
+
+.twitter_logo{
+    width: 10%;
+    height: 10%;
+    padding: 1%;
+}

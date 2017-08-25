@@ -1,0 +1,57 @@
+$margin-top: 3%;
+
+.basketball{
+  color: white;
+  background-image: url("/assets/game-background/basketball-close-up.jpg");
+  background-size: 100%;
+  width: 100%;
+  margin-top: $margin-top;
+}
+
+.track {
+  color: white;
+  background-image: url("/assets/game-background/track-close-up.jpg");
+  background-size: 100%;
+  width: 100%;
+  margin-top: $margin-top;
+}
+
+.wrestling {
+  color: white;
+  background-image: url("/assets/game-background/wrestling-close-up.jpg");
+  background-size: 100%;
+  width: 100%;
+  margin-top: $margin-top;
+}
+
+.swimming {
+  color: white;
+  background-image: url("/assets/game-background/swimming-close-up.jpg");
+  background-size: 100%;
+  width: 100%;
+  margin-top: $margin-top;
+}
+
+
+.header{
+  text-align: center;
+}
+
+.mdl-grid{
+  align-content: center;
+}
+
+.mdl-cell--6-col{
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.location{
+  text-align: center;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}

@@ -1,0 +1,47 @@
+[
+    {
+        "id" : "01",
+        "name" : "Brandywine High School",
+        "shortName" : "Brandywine",
+        "mascot" : "Bulldogs",
+        "address" : {
+            "street" : "1400 Foulk Road",
+            "city" : "Wilmington",
+            "state" : "Delaware",
+            "zipcode" : "19803"
+        },
+        "phoneNumber" : "(302) 479-1600",
+        "faxNumber" : "(302) 479-1604",
+        "cssClass" : "brandywine"
+    },
+    {
+        "id" : "02",
+        "name" : "Concord High School",
+        "shortName" : "Concord",
+        "mascot" : "Raiders",
+        "address" : {
+            "street" : "2501 Ebright Road",
+            "city" : "Wilmington",
+            "state" : "Delaware",
+            "zipcode" : "19801"
+        },
+        "phoneNumber" : "(302) 475-3951",
+        "faxNumber" : "(302) 529-3094",
+        "cssClass" : "concord"
+    },
+    {
+        "id" : "03",
+        "name" : "Mount Pleasant High School",
+        "shortName" : "Mount",
+        "mascot" : "Green Knights",
+        "address" : {
+            "street" : "5201 Washington Street Extension",
+            "city" : "Wilmington",
+            "state" : "Delaware",
+            "zipcode" : "19809"
+        },
+        "phoneNumber" : "(302) 762-7125",
+        "faxNumber" : "(302) 762-7049",
+        "cssClass" : "mount"
+    }
+]

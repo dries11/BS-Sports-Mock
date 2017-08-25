@@ -1,0 +1,26 @@
+<div [class]="game.cssClass">
+  <div class="game">
+      <div class="header">
+          <span class="title">
+              {{game.sport}}
+          </span>
+          <br>
+          <span class="subtitle">
+              {{game.school}} vs. {{game.schoolVersus}}
+          </span>
+      </div>
+      <div class="mdl-grid">
+          <div class="mdl-cell--6-col">
+            <i class="material-icons">timelapse</i><span> : {{game.time}}</span>
+          </div>
+          <div class="mdl-cell--6-col">
+            <i class="material-icons">date_range</i><span> : {{game.date}}</span>
+          </div>
+      </div>
+      <a href="http://google.com/maps/place/{{game.gMapsSearch}}" target="_blank">
+        <div class="location">
+          <i class="material-icons">location_on</i><span> : {{game.location}}</span>
+        </div>
+      </a>
+  </div>
+</div>

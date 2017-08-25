@@ -1,0 +1,29 @@
+<div class="tweet">
+    <div class="tweet-header content-grid mdl-grid">
+        <div class="mdl-cell mdl-cell--3-col">
+            <div class="avatar-wrapper">
+                <img class="avatar" src={{tweet.avatarUrl}}/>
+            </div>
+        </div>
+        <div class="mdl-cell mdl-cell--6-col">
+            <span class="twitterAccountInfo">
+                {{tweet.accountFullName}}
+                <span class="twitterHandle">
+                    {{tweet.twitterHandle}}
+                </span>
+            </span>
+        </div>
+        <div class="mdl-cell mdl-cell--3-col">
+            <div class="twitterIcon">
+                <img class="icon" src="/assets/icons/Twitter_Logo_Blue.png"/>
+            </div>
+        </div>
+    </div>
+    <span>
+        {{tweet.tweetText}}
+    </span>
+    <div clickable *ngIf="tweet.tweetPhotoUrl" class="tweetMedia">
+        <img src={{tweet.tweetPhotoUrl}}/>
+    </div>
+</div>
+<hr/>
