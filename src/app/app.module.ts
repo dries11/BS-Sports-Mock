@@ -9,6 +9,7 @@ import { UpcomingGamesComponent } from './components/upcoming-games/upcoming-gam
 import { UpcomingGameSingleComponent } from './components/upcoming-games/upcoming-game-single/upcoming-game-single.component';
 import { TwitterFeedComponent } from './components/twitter-feed/twitter-feed.component';
 import { TweetComponent } from './components/twitter-feed/tweet/tweet.component';
+import { SlideShowComponent } from './components/slide-show/slideshow.component';
 
 import { SchoolService } from './services/school.service';
 import { TweetService } from './services/tweet.service';
@@ -21,7 +22,8 @@ import { UpcomingGamesService } from './services/upcominggames.service';
     TweetComponent,
     DashboardComponent,
     UpcomingGamesComponent,
-    UpcomingGameSingleComponent
+    UpcomingGameSingleComponent,
+    SlideShowComponent
   ],
   imports: [
     BrowserModule,
